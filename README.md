@@ -5,6 +5,7 @@
 ## About Similipal Tiger Reserve
 Similipal Tiger Reserve, located in Mayurbhanj district, Odisha, is one of India’s largest forest reserves and a designated UNESCO Biosphere Reserve. Spanning over 2,750 sq. km, it is home to endangered Bengal tigers, Asiatic elephants, and diverse flora and fauna. Due to its dense Sal forests, rugged terrain, and frequent dry-season fires, it presents significant communication challenges for ground teams during wildfire monitoring — making it an ideal case for drone-based thermal surveillance and RF communication research.
 
+
 ![image](https://github.com/user-attachments/assets/7a153559-e996-410a-bcd5-83a4aa2a464c)
 
 
@@ -46,6 +47,8 @@ Here’s where **VSWR tuning**, **reflection coefficients**, and **beam-steering
 | **Reflection Coefficient (Γ)** | Unmatched impedance causes signal reflection. Forests cause multipath fading, increasing Γ. |
 | **MIMO** | Increases data throughput and reliability. Helps drones maintain high-speed video feed in cluttered RF environments. |
 | **Beam Steering** | Directs antenna lobe to follow drone without physically moving the antenna. Useful when tracking flying units. |
+
+---
 ![image](https://github.com/user-attachments/assets/115d8de3-9f49-480a-ae53-836d9c4b7d06)
 
 
