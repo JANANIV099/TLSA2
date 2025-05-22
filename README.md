@@ -46,6 +46,8 @@ Here’s where **VSWR tuning**, **reflection coefficients**, and **beam-steering
 | **Reflection Coefficient (Γ)** | Unmatched impedance causes signal reflection. Forests cause multipath fading, increasing Γ. |
 | **MIMO** | Increases data throughput and reliability. Helps drones maintain high-speed video feed in cluttered RF environments. |
 | **Beam Steering** | Directs antenna lobe to follow drone without physically moving the antenna. Useful when tracking flying units. |
+![image](https://github.com/user-attachments/assets/115d8de3-9f49-480a-ae53-836d9c4b7d06)
+
 
 
 
