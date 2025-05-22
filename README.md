@@ -42,22 +42,19 @@ Here’s where **VSWR tuning**, **reflection coefficients**, and **beam-steering
 ##  Equations Used
 
 ###  Reflection Coefficient:
-\[
-\Gamma = \frac{Z_L - Z_0}{Z_L + Z_0}
-\]
+![image](https://github.com/user-attachments/assets/17f4dc0f-1ee9-4105-9ca7-0bf2befb38bb)
+
 
 Where:  
-- \( Z_L \): Load impedance (antenna)  
-- \( Z_0 \): Transmission line impedance (typically 50Ω)
+![image](https://github.com/user-attachments/assets/ba3fa064-05a8-4b9e-86d2-1778c7146013)
 
-→ When \( \Gamma ≈ 0 \), system is **perfectly matched**, minimizing reflection.
+
 
 ---
 
 ###  VSWR:
-\[
-\text{VSWR} = \frac{1 + |\Gamma|}{1 - |\Gamma|}
-\]
+![image](https://github.com/user-attachments/assets/c905eedc-dc25-4cb7-80a4-3da3bcfb332e)
+
 
 → When \( |\Gamma| ≈ 0 \), **VSWR → 1**, indicating **ideal matching** and maximum power transfer.
 
@@ -85,10 +82,7 @@ Where:
 
 When the forest burns, **every second counts**. This project proves that **core ECE principles** like **S-parameters**, **antenna matching**, and **MIMO** aren't just theoretical—they **save lives and nature**.
 
-> “Smart tech is the new firefighter.”  
-> — *Dhinesh, ECE Engineer*
 
-Let's build tech that doesn't just transmit data — but **transforms disaster response**.
 
 ---
 
