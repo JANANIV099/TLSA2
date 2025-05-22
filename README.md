@@ -18,6 +18,8 @@ In dense forests, forest fires can spread rapidly, and terrain often blocks cell
 
 But how does this communication work in signal-hostile environments?  
 Here’s where **VSWR tuning**, **reflection coefficients**, and **beam-steering antennas** come in.
+![image](https://github.com/user-attachments/assets/b000deac-ba7c-4529-b3b2-5eb7f5becf29)
+
 
 ---
 
@@ -45,6 +47,8 @@ Here’s where **VSWR tuning**, **reflection coefficients**, and **beam-steering
 | **MIMO** | Increases data throughput and reliability. Helps drones maintain high-speed video feed in cluttered RF environments. |
 | **Beam Steering** | Directs antenna lobe to follow drone without physically moving the antenna. Useful when tracking flying units. |
 
+
+
 ---
 
 ##  Equations Used
@@ -65,16 +69,9 @@ Where:
 
 
 → When \( |\Gamma| ≈ 0 \), **VSWR → 1**, indicating **ideal matching** and maximum power transfer.
+![image](https://github.com/user-attachments/assets/818d1c95-82a3-48de-a196-c530f6766c42)
 
----
 
-##  Use Case Photos
-
-| Image | Description |
-|-------|-------------|
-|  Similipal Forest Fire (2021) | Drone monitoring wildfire with live data feed |
-|  Beam Steering | Phased-array antenna following drone in real time |
-|  MIMO Diagram | Visual of multiple data streams increasing signal resilience |
 
 ---
 
